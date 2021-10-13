@@ -32,6 +32,7 @@
     * aws with localstack
     * secrets management
 * plan for the workshop
+    * preliminary: https://github.com/mtumilowicz/terraform-basics-modules-workshop
     * fill the scaffolds and follow the hints in directories:
         1. pt1_remotebackend
         1. pt2_workspaces
