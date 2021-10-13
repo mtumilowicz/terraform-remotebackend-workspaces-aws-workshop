@@ -1,1 +1,0 @@
-external_ports = [8080, 8081]
